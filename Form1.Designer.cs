@@ -1,8 +1,7 @@
-﻿using System;
-using System.Drawing;
-using System.Threading;
+﻿using System.Drawing;
 using System.Windows.Forms;
-namespace WindowsFormsApp1
+
+namespace Notepad
 {
     partial class Form1
     {
@@ -128,4 +127,3 @@ namespace WindowsFormsApp1
         #endregion
     }
 }
-

@@ -1,8 +1,7 @@
-﻿using System;
-using System.Drawing;
+﻿using System.Drawing;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace Notepad
 {
     partial class Form2
     {

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Threading;
 using System.IO;
 
-namespace WindowsFormsApp1
+namespace Notepad
 {
     public partial class Form1 : Form
     {

@@ -1,6 +1,7 @@
-﻿namespace WindowsFormsApp1
+﻿namespace Notepad
 {
     internal class Textbox
     {
+
     }
 }
